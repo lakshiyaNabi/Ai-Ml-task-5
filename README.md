@@ -439,6 +439,6 @@ This project demonstrates:
 
 ## 👩‍💻 Author
 
-**Madhumidha**
+**Lakshiya s s**
 
 BCA Student
